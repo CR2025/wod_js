@@ -96,7 +96,7 @@
 // @copyright		2010+, Tomy
 // @grant           GM_getValue
 // @grant           GM_setValue
-// @downloadURL     https://raw.githubusercontent.com/tomy2105/wod/master/extra_equipment_stats.user.js
+// @downloadURL     https://github.com/CR2025/wod_js/raw/main/Extra_Equipment_Stats.user.js
 // ==/UserScript==
 
 var DEBUG = false;
