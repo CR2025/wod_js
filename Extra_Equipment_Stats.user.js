@@ -227,7 +227,7 @@ function trim( data )
 
 var Contents = {
     "cn" : {
-          Button_Name		: "Calculate additional equipment stats"
+          Button_Name		: "计算装备加成统计数据"
         , Title				: "<h1>Additional equipment statistics</h1>Last calculated on "
         , Fetch_Hero		: "Fetching hero info"
         , Fetch_Clan		: "Fetching clan info"
